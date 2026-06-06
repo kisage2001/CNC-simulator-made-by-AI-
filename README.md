@@ -90,5 +90,3 @@ Each program is accompanied by an interactive 3D HTML simulator built on Three.j
     Because the central φ50 mm hole is contour-milled rather than pocketed, a solid metal slug of approximately $\phi 38\text{mm}$ will drop out during the final pass. **Adequately secure the plate and slug** (e.g., using double-sided tape, vacuum fixtures, or manual pauses on the final pass) to prevent the slug from jamming the tool.
 4.  **Coolant supply:**
     Aluminum A5052 is prone to welding to the tool edges. **Always run with flood/mist coolant active** (`M08`) or apply cutting fluid manually.
-
-
